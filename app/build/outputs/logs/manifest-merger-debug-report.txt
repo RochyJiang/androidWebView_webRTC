@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7c8e25817bec3db8059d4199c246aa9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\389dce5d86d80feb818480f9ec9ede12\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1208bba31331f1fa8312cef23a57f492\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2f6bbdeea29efc558efe810051ed535\AndroidManifest.xml:17:1-28:12
+MERGED from [org.webrtc:google-webrtc:1.0.24064] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.24064.aar\9010ad63416158f913b080cedf16864a\AndroidManifest.xml:11:1-14:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\428c13fd4edfbad002ab7d6c2682adf8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c07bfee4f08e431586f0a80178a36ec\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89274a1a172d5dbed92ac1a5a3eaf14e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\619ca6ca7d0dbef5b4499e556aa4068a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c30a99c0f37caf9974f3a9c532d2b136\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af0c61408da1bc29a16593f8091a49ee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\443bcd874013eee1c0af271abfc72034\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2ba3783fd85caf6433e7ae22d7886068\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6dfee411df9147e1768baf6ec6d701a9\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7c8e25817bec3db8059d4199c246aa9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7c8e25817bec3db8059d4199c246aa9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\389dce5d86d80feb818480f9ec9ede12\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\389dce5d86d80feb818480f9ec9ede12\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1208bba31331f1fa8312cef23a57f492\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1208bba31331f1fa8312cef23a57f492\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2f6bbdeea29efc558efe810051ed535\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2f6bbdeea29efc558efe810051ed535\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\428c13fd4edfbad002ab7d6c2682adf8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\428c13fd4edfbad002ab7d6c2682adf8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c07bfee4f08e431586f0a80178a36ec\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c07bfee4f08e431586f0a80178a36ec\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89274a1a172d5dbed92ac1a5a3eaf14e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89274a1a172d5dbed92ac1a5a3eaf14e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\619ca6ca7d0dbef5b4499e556aa4068a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\619ca6ca7d0dbef5b4499e556aa4068a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c30a99c0f37caf9974f3a9c532d2b136\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c30a99c0f37caf9974f3a9c532d2b136\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af0c61408da1bc29a16593f8091a49ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af0c61408da1bc29a16593f8091a49ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\443bcd874013eee1c0af271abfc72034\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\443bcd874013eee1c0af271abfc72034\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2ba3783fd85caf6433e7ae22d7886068\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2ba3783fd85caf6433e7ae22d7886068\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6dfee411df9147e1768baf6ec6d701a9\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6dfee411df9147e1768baf6ec6d701a9\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.marcusbelcher.getusermediatest.MainActivity
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:17:27-74
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:23:19-67
+uses-feature#android.hardware.camera2.full
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:24:19-63
+uses-feature#android.hardware.camera2.autofocus
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:25:19-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.webkit.PermissionRequest
+ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:27:5-72
+	android:name
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml:27:22-69
+uses-sdk
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7c8e25817bec3db8059d4199c246aa9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7c8e25817bec3db8059d4199c246aa9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\389dce5d86d80feb818480f9ec9ede12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\389dce5d86d80feb818480f9ec9ede12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1208bba31331f1fa8312cef23a57f492\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1208bba31331f1fa8312cef23a57f492\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2f6bbdeea29efc558efe810051ed535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2f6bbdeea29efc558efe810051ed535\AndroidManifest.xml:20:5-44
+MERGED from [org.webrtc:google-webrtc:1.0.24064] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.24064.aar\9010ad63416158f913b080cedf16864a\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.24064] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.24064.aar\9010ad63416158f913b080cedf16864a\AndroidManifest.xml:13:3-72
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\428c13fd4edfbad002ab7d6c2682adf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\428c13fd4edfbad002ab7d6c2682adf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c07bfee4f08e431586f0a80178a36ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c07bfee4f08e431586f0a80178a36ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89274a1a172d5dbed92ac1a5a3eaf14e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89274a1a172d5dbed92ac1a5a3eaf14e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\619ca6ca7d0dbef5b4499e556aa4068a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\619ca6ca7d0dbef5b4499e556aa4068a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c30a99c0f37caf9974f3a9c532d2b136\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c30a99c0f37caf9974f3a9c532d2b136\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af0c61408da1bc29a16593f8091a49ee\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af0c61408da1bc29a16593f8091a49ee\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\443bcd874013eee1c0af271abfc72034\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\443bcd874013eee1c0af271abfc72034\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2ba3783fd85caf6433e7ae22d7886068\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2ba3783fd85caf6433e7ae22d7886068\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6dfee411df9147e1768baf6ec6d701a9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6dfee411df9147e1768baf6ec6d701a9\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\etbdefi\Desktop\ericssonWebRTC\android-getUserMedia-test-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7c8e25817bec3db8059d4199c246aa9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f7c8e25817bec3db8059d4199c246aa9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1208bba31331f1fa8312cef23a57f492\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1208bba31331f1fa8312cef23a57f492\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2f6bbdeea29efc558efe810051ed535\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2f6bbdeea29efc558efe810051ed535\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\428c13fd4edfbad002ab7d6c2682adf8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\428c13fd4edfbad002ab7d6c2682adf8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c07bfee4f08e431586f0a80178a36ec\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4c07bfee4f08e431586f0a80178a36ec\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89274a1a172d5dbed92ac1a5a3eaf14e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89274a1a172d5dbed92ac1a5a3eaf14e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\619ca6ca7d0dbef5b4499e556aa4068a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\619ca6ca7d0dbef5b4499e556aa4068a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c30a99c0f37caf9974f3a9c532d2b136\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c30a99c0f37caf9974f3a9c532d2b136\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af0c61408da1bc29a16593f8091a49ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af0c61408da1bc29a16593f8091a49ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\443bcd874013eee1c0af271abfc72034\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\443bcd874013eee1c0af271abfc72034\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2ba3783fd85caf6433e7ae22d7886068\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2ba3783fd85caf6433e7ae22d7886068\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ad887d9e7f2833977949d4baed8f428e\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6dfee411df9147e1768baf6ec6d701a9\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6dfee411df9147e1768baf6ec6d701a9\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\etbdefi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6dfee411df9147e1768baf6ec6d701a9\AndroidManifest.xml:26:13-58
